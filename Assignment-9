@@ -1,0 +1,68 @@
+# 📞 Phonebook App
+
+A simple and responsive **Phonebook App** built using **HTML, CSS, and JavaScript**.  
+This project allows users to **add, search, edit, and delete contacts** easily.
+
+---
+
+## 🚀 Features
+
+- ➕ Add new contacts
+- 🔍 Search contacts instantly
+- ✏️ Edit existing contacts
+- ❌ Delete contacts
+- 💾 Save contacts using Local Storage
+- 📱 Responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (DOM Manipulation)
+- Local Storage
+
+---
+
+## 📂 Project Structure
+
+phonebook-app/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+## ⚙️ How to Run the Project
+
+1. Download or clone this repository
+2. Open the project folder
+3. Run `index.html` in your browser
+
+---
+
+## 🎯 Project Purpose
+
+This project was created to practice:
+
+- CRUD operations
+- DOM manipulation
+- Event handling
+- Local Storage in JavaScript
+
+---
+
+## 🔮 Future Improvements
+
+- Add email field
+- Add profile image for contacts
+- Export contacts
+- Dark mode
+- Favorite contacts feature
+
+---
+
+## 👩‍💻 Author
+
+**Gayathri**  
+Frontend Developer Learner 🚀
